@@ -1,0 +1,24 @@
+.card{
+    width: 280px;
+    height: 320px;
+}
+.imgbox{
+    background-color: #F5F5F5;
+}
+.bt{
+    background-color: black;
+    color: white;
+    width: 280px;
+}
+.card img{
+    width: 100%;
+    height: 200px;
+}
+p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+span{
+    color: red;
+    margin-top: 30px;
+}
